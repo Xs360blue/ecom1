@@ -136,8 +136,8 @@
 }
 .footer{
     /* height:30vh; */
-    color: rgb(255, 251, 251);
-    background-color: black;
+    color:black;
+    background-color:white;
     padding:20px;
    
 }
@@ -179,7 +179,7 @@
     padding:5px;
     font-family:poppins;
     text-decoration:none;
-    color:white;
+    color:black;
     
 }
 .go{
